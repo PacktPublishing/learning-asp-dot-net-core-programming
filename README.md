@@ -15,11 +15,9 @@ All of the code is organized into folders. Each folder starts with a number foll
         }
 
 ```
-###Note
+###Notes
 * Chapters 1, 2, 7, 9, 10, 11, and 12 of the book do not have any code.
-* The color images present in the book are clubbed in a graphics bundle. [Click here](http://www.packtpub.com/sites/default/files/downl
-oads/LearningAspDotNetCoreProgramming_ColorImages.pdf) to download the graphics bundle for this book.
-* If you find any errata for the codes, please report them by visiting the Errat section((http://www.packtpub.com/submit-errata)) of our website.
+* If you find any errata for the codes, please report them by visiting the Errat section(http://www.packtpub.com/submit-errata) of our website.
 
 ##Related Products
 

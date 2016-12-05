@@ -1,6 +1,6 @@
 #Learning ASP.NET Core MVC Programming
 
-This is the code repository for the book, Learning ASP.NET Core MVC Programming, published by Packt. It has all the codes present in the book.
+This is the code repository for the book, [Learning ASP.NET Core MVC Programming](https://www.packtpub.com/application-development/learning-aspnet-core-mvc-programming?utm_source=github&utm_campaign=9781786463838&utm_medium=repository), published by Packt. It has all the codes present in the book.
 
 ##Instructions and Navigation
 

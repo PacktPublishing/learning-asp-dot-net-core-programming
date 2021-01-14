@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this product for only $5 on PacktPub.com](https://www.packtpub.com/)
------
-*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 #Learning ASP.NET Core MVC Programming
 
 This is the code repository for the book, [Learning ASP.NET Core MVC Programming](https://www.packtpub.com/application-development/learning-aspnet-core-mvc-programming?utm_source=github&utm_campaign=9781786463838&utm_medium=repository), published by Packt. It has all the codes present in the book.
